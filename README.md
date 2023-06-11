@@ -33,5 +33,5 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/shakhrai8) to 
 
 If you'd like to know more about my background and experience, you can check out my [CV](https://github.com/Shakhrai8/CV/blob/master/README.md).
 
-![Shakhrai8's Stats](https://github-readme-stats.vercel.app/api?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&count_private=true&hide_rank=true&line_height=20&width=400&height=200) ![Shakhrai8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&layout=compact&langs_count=6&width=400&height=200) ![Shakhrai8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakhrai8&theme=merko&hide_border=false&fire=DD2727&width=300&height=200)
+![Shakhrai8's Stats](https://github-readme-stats.vercel.app/api?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&count_private=true&hide_rank=true&line_height=20&width=200&height=200) ![Shakhrai8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&layout=compact&langs_count=6&width=200&height=200)
 
