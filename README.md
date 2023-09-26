@@ -48,7 +48,7 @@ If you'd like to know more about my background and experience, you can check out
 | Trail | TRAIL, an innovative historical location finder built with React and Node.js. Leveraging Google API for location data and OpenAI GPT for descriptions. Tested with Jest and Cypress and deployed on trailapp.net. | [GitHub](https://github.com/Shakhrai8/trail) | JS, React, Node.js, Express.js, Google API, OpenAI GPT, Jest, Cypress |
 | Acebook | ACEBOOK, a robust social networking platform built with React, Express.js, MongoDB, JWT, and tested with Jest and Cypress. | [GitHub](https://github.com/Shakhrai8/acebook) | JS, React, Express.js, MongoDB, JWT, Jest, Cypress |
 | Cyber Twitter | Ruby-based Twitter clone web application that allows users to sign up, log in, and post "peeps". | [GitHub](https://github.com/Shakhrai8/cyber-twitter) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
-| Makers BnB | Web application built with Sinatra that allows users to list and book rental spaces, inspired by Airbnb. | [GitHub](https://github.com/Shakhrai8/makers_bnb) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
+| PencePulse | A personal mobile finance tracker app built using React Native and Node.js. | [GitHub](https://github.com/Shakhrai8/PencePulse) | JS, React Native, Redux, MongoDB, JWT, Detox, Jest, Node.js |
 
 ![Shakhrai8's Stats](https://github-readme-stats.vercel.app/api?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&count_private=true&hide_rank=true&line_height=20&width=200&height=200) ![Shakhrai8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&layout=compact&langs_count=6&width=200&height=200)
 
